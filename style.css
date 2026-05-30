@@ -4,6 +4,14 @@ body {
     margin: 0;
     padding: 20px;
 }
+
 h1 {
     color: #1F3864;
+    border-bottom: 2px solid #2E75B6;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
 }
